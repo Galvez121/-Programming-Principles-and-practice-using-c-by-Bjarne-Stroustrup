@@ -6,11 +6,13 @@
 // the larger value is: followed by the larger value.
 // Learning c++ 
 
+// Change the program so that it uses `double`s instead of `int`s.
+
 #include <iostream>
 
 int main() {
-  int val1;
-  int val2;
+  double val1;
+  double val2;
 
   std::string stop;
 
